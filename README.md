@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kinenyazuki061501
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning java and other shits.
+- 🌱 I’m currently learning java and other prog. languages.
 - 💞️ I’m looking to collaborate on maybe when I'm tenured in this.
 - 📫 How to reach me, just stretch your arm.
 
